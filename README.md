@@ -11,12 +11,6 @@
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,mysql,git,github,mongo)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
-
-[![Gmail Badge](https://img.shields.io/badge/-garcia.andref@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{garcia.andref@gmail.com})](mailto:{garcia.andref@gmail.com})
-[![Linkedin: André](https://img.shields.io/badge/-andregarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garciaandref/)](https://www.linkedin.com/in/garciaandref/)
-
-
 
 ![Dreh626 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreh626&show_icons=true&theme=radical)
 

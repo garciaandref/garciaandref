@@ -12,6 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,mysql,git,github,mongo)](https://skillicons.dev)<br><br>
 
 
-![Dreh626 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreh626&show_icons=true&theme=radical)
-
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
